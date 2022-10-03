@@ -1,5 +1,5 @@
 # STEP 0 
- INSTALL ONLY PYTHON version > 3.9
+ INSTALL ONLY PYTHON version > 3.10
 
 # STEP 1
 install virtualenv and install library using requirement.txt 
